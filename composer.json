@@ -19,7 +19,10 @@
         "drupal/bootstrap_barrio": "^5.0",
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
-        "drupal/core-recommended": "^9"
+        "drupal/core-recommended": "^9",
+        "drupal/ctools": "^3.4",
+        "drupal/pathauto": "^1.8",
+        "drupal/token": "^1.7"
     },
     "conflict": {
         "drupal/drupal": "*"
