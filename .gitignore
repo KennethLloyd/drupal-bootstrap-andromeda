@@ -22,3 +22,6 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignore custom theme node modules
+/web/themes/custom/bootstrap_custom/node_modules
